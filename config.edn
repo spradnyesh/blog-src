@@ -1,14 +1,14 @@
 {:site-title         "Today is better than yesterday!"
  :author             "Pradnyesh Sawant"
  :description        "This blog is awesome"
- :site-url           "http://blog.gryff.in/"
+ :site-url           "http://spradnyesh.github.io/"
  :post-root          "posts"
  :tag-root           "tags"
  :page-root          "pages"
  :blog-prefix        ""
  :rss-name           "feed.xml"
  :rss-filters        ["cryogen"]
- :recent-posts       3
+ :recent-posts       7
  :post-date-format   "yyyy-MM-dd"
  :sass-src           nil
  :sass-dest          nil
@@ -20,4 +20,4 @@
  :ignored-files      [#"\.#.*" #".*\.swp$"]
  :posts-per-page     5
  :blocks-per-preview 2
- :previews?          false}
+ :previews?          true}
